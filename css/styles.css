@@ -3,6 +3,11 @@
   padding: 0;
 }
 
+:root {
+  --primary-color: #edf2fc;
+  --secondary-color: #191919;
+}
+
 .hero {
   height: 100vh;
   width: 100%;
