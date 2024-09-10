@@ -84,4 +84,9 @@ span {
   left: 50%;
   bottom: 0;
   transform: translateX(-50%);
+  transition: bottom 1s;
+}
+
+.img-box:hover .back-img {
+  bottom: 40px;
 }
