@@ -105,3 +105,7 @@ span {
   color: #606163;
   margin-right: 20px;
 }
+
+.social-links a:hover {
+  color: #507a8a;
+}
