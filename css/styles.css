@@ -114,3 +114,8 @@ span {
   width: 30px;
   cursor: pointer;
 }
+
+nav ul {
+  flex: 1;
+  text-align: right;
+}
